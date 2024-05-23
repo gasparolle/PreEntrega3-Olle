@@ -31,7 +31,6 @@ function autosStorage (){
    }
    }
 }
-
 autosStorage();
 
 //Funcion crear las tarjetas y para mostrar los autos para alquilar
@@ -198,4 +197,4 @@ botonAgregar.onclick = () => agregarAuto ();
 botoneraInicio.appendChild(botonSolicitar);
 botoneraInicio.appendChild(botonDevolver);
 botoneraInicio.appendChild(botonAgregar);
-body.appendChild(botoneraInicio);
+
